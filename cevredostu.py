@@ -55,4 +55,4 @@ async def tip_command(ctx):
     tip = random.choice(TIPS)
     await ctx.send(tip)
 
-bot.run('MTI5Nzk5MjcwNzUyODE5NjI0Ng.GLMmoj.qqx4V7-8I-J0nV9f9-uWVwHh-_k8HMQeWo-iEM')
+bot.run('DISCORD-TOKEN')
